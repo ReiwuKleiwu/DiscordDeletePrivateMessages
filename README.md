@@ -1,5 +1,5 @@
 # DiscordDeletePrivateMessages
-A small program which automatically deletes all of your chat message, sent into a certain private chat on Discord. 
+A small program which automatically deletes all of your chat messages, sent into a certain private chat on Discord. 
 
 # Installation
 - Make sure you have Node.js installed. 
@@ -34,4 +34,14 @@ https://nodejs.org/en/
   - The programm will do its work from now on, at this point, it simply crashes once it deleted all of your messages.
   - Press CTRL + C to exit the program at any point in time.
 
+
+# What did I learn from doing it? 
+  - Handling delays in for-loops with ES7 syntax, man, I really do not like it at all.
+  - Improving my understanding of asynchronous code in general
+  
+# Sources 
+  - The main idea of my code originated from this lovely post: https://gist.github.com/CarletonStuberg/0c838a6248772c6fea1339ddad503cce#gistcomment-2632274
+
+My browser lagged a lot when I used it, so I thought implementing it into node.js would make it way more efficient and less laggy. ~ 
+ 
 
