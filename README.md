@@ -8,14 +8,14 @@ https://nodejs.org/en/
 - Put all the files into a single folder.
 - Open a terminal and change its directory to the given folder. (e.g. : "pushd *SOME DIRECTORY PATH*)
 - Type **npm install** into the terminal, this will install the programs dependencies.
-- Open the config.json file and fill in the fields: 
+- Open the config.json file and fill in the required fields: 
 
 **I RECOMMEND USING DISCORD'S BROWSER VERSION FOR THE NEXT STEPS** 
   - "channel" : put the ID of the DM channel in here, 
   How do I get the channel ID? 
   
 -> Open the DM chat in your browser, now copy the channel ID from the URL
-   (e.g. https://discordapp.com/channels/@me/CHANNEL ID )
+   (e.g. https://discordapp.com/channels/@me/CHANNEL_ID )
   - "authorization" : put your auth token in here, 
   How do I get my auth token? 
   
