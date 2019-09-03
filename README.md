@@ -29,7 +29,7 @@ https://nodejs.org/en/
 -> Make sure you got Discord's developer mode enabled, now right click onto your profile picture in a chat and click on "Copy ID"
   - Make sure to save the config file before you close it.
 
-  ##Now you are ready to start the program!
+  ## Now you are ready to start the program!
   - Go back to your terminal and type "node main.js". 
   - The programm will do its work from now on, at this point, it simply crashes once it deleted all of your messages.
   - Press CTRL + C to exit the program at any point in time.
