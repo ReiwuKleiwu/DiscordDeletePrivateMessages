@@ -37,11 +37,11 @@ https://nodejs.org/en/
 
 # What did I learn from doing it? 
   - Handling delays in for-loops with ES7 syntax, man, I really do not like it at all.
-  - Improving my understanding of asynchronous code in general
+  - Improving my understanding of asynchronous code in general.
   
 # Sources 
   - The main idea of my code originated from this lovely post: https://gist.github.com/CarletonStuberg/0c838a6248772c6fea1339ddad503cce#gistcomment-2632274
 
-My browser lagged a lot when I used it, so I thought implementing it into node.js would make it way more efficient and less laggy. ~ 
+My browser lagged a lot when I used the script from the post above, so I thought implementing it into node.js would make it way more efficient and less laggy. ~ 
  
 
