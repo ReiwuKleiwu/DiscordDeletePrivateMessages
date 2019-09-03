@@ -1,5 +1,5 @@
 # DiscordDeletePrivateMessages
-A small program which automatically deletes all of your chat messages, sent into a certain private chat on Discord. 
+A small program which automatically deletes all of your chat messages, sent into a given private chat on Discord. 
 
 # Installation
 - Make sure you have Node.js installed. 
