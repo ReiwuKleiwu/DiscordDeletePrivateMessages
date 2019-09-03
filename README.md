@@ -11,16 +11,19 @@ https://nodejs.org/en/
 - Open the config.json file and fill in the required fields: 
 
 **I RECOMMEND USING DISCORD'S BROWSER VERSION FOR THE NEXT STEPS** 
-  - "channel" : put the ID of the DM channel in here, 
+  - "channel" : put the ID of the DM channel in here. 
+
   How do I get the channel ID? 
   
 -> Open the DM chat in your browser, now copy the channel ID from the URL
    (e.g. https://discordapp.com/channels/@me/CHANNEL_ID )
-  - "authorization" : put your auth token in here, 
+  - "authorization" : put your auth token in here.
+
   How do I get my auth token? 
   
 -> https://discordhelp.net/discord-token
-  - "authorID" : put your own ID in this field
+  - "authorID" : put your own ID in this field.
+
   How do I get my own ID? 
   
 -> Make sure you got Discord's developer mode enabled, now right click onto your profile picture in a chat and click on "Copy ID"
